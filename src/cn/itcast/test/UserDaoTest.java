@@ -19,5 +19,6 @@ public class UserDaoTest {
         User user = dao.login(loginuser);
 
         System.out.println(user);
+        System.out.println("lifeilong");
     }
 }
